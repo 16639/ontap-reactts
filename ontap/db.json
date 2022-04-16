@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "san pham A",
+      "img": "https://gelex.vn/wp-content/uploads/2021/06/no-image.jpg",
+      "price": 100,
+      "description": "mo ta"
+    },
+    {
+      "id": 2,
+      "name": "san pham A",
+      "img": "https://gelex.vn/wp-content/uploads/2021/06/no-image.jpg",
+      "price": 100,
+      "description": "mo ta"
+    },
+    {
+      "name": "san pham E",
+      "img": "https://gelex.vn/wp-content/uploads/2021/06/no-image.jpg",
+      "price": "78946",
+      "description": "chi tis",
+      "id": 3
+    },
+    {
+      "name": "admin hi",
+      "img": "https://gelex.vn/wp-content/uploads/2021/06/no-image.jpg",
+      "price": "123",
+      "description": "hang xin xo",
+      "id": 4
+    },
+    {
+      "name": "abc update ",
+      "img": "https://gelex.vn/wp-content/uploads/2021/06/no-image.jpg",
+      "price": "123",
+      "description": "chi tis",
+      "id": 5
+    }
+  ],
+  "users": []
+}
